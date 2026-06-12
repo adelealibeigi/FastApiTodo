@@ -1,0 +1,13 @@
+alembic>1.14,<1.15
+fastapi[all]>0.115.0, <0.116
+passlib[bcrypt]
+fastapi-swagger==0.4.47
+pyjwt==2.12.1
+pytest==9.0.3
+fastapi-cache2[redis]==0.2.2
+psycopg2-binary==2.9.12
+injector==0.24.0
+fastapi_injector==0.9.0
+celery[redis]==5.6.3
+fastapi-mail[httpx]
+locust==2.15.1
